@@ -22,7 +22,7 @@ For reference, check https://docs.microsoft.com/en-us/sql/powershell/download-sq
 
 ## Authors
 
-* **Elie Saad** - *Initial work* - [ThunderSon](https://github.com/ThunderSon)
+* **Thunder Son** - *Initial work* - [ThunderSon](https://github.com/ThunderSon)
 
 ## License
 
